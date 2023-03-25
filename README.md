@@ -63,7 +63,7 @@
 
 ### 📜 &nbsp;My Articles 
 
-<a target="_blank"href="https://medium.com/@adityakanoi123"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@adityakanoi123"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
