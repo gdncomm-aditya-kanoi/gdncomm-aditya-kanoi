@@ -6,15 +6,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
+👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Full Stack Developer.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have completed my BE in Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Gen AI, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1R0Sf04x0Wa2B3BovUlBROeZ6RIAfTeqW/view?usp=drive_link) for more details about me. I'm open to feedback and suggestions!
-
+🌱 &nbsp;I'm persuing my Masters in Data Sceince from Birla Institute of Technology (BITS) , Pilani\
+✍️ &nbsp;In my free time, I do Digital Designing and Doodle Artwork.\
+💬 &nbsp;Feel free to reach out to me for any issue on MS Teams or Email.\
+✉️ &nbsp;You can shoot me an email at aditya.kanoi@gdn-commerce.com I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -67,16 +65,16 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gdncomm-aditya-kanoi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gdncomm-aditya-kanoi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/gdncomm-aditya-kanoi">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gdncomm-aditya-kanoi&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gdncomm-aditya-kanoi&theme=dark&hide_border=true"/>
 </p>
 
 ### 🎖 &nbsp;My Badges 
